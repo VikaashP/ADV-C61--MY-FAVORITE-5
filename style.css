@@ -1,0 +1,54 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: lightgrey;
+    text-decoration: underline;
+}
+p{
+    color: white;
+}
+h1{
+    color:white;
+}
+h2{
+    color: white;
+}
+.line {
+    height: 6px;
+    background-color: white;
+    width: 1500px;
+    margin: 8px auto;
+}
+.menu {
+    list-style: none;
+    font-family: monospace;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 10;
+    color: white;
+    
+}
+
+.links {
+    float: left;
+    text-decoration-color: white;
+    color: white;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-right: 9px;
+    padding-left: 9px;
+    font-family:sans-serif;
+    font-size: 15px;
+}
+#Mypic{
+    height: 500px;
+    width: 700px;
+}
